@@ -12,7 +12,7 @@
 ## 🔽 Download
 
 📦 Get the latest Windows executable here:  
-➡️ **[Download v3.1 (.exe)](https://github.com/jentimanatol/MySecureDBManagerGui/releases/download/v1.0/MySecureDBManagerGui.exe)**
+➡️ **[Download v1.0 (.exe)](https://github.com/jentimanatol/MySecureDBManagerGui/releases/download/v1.0/MySecureDBManagerGui.exe)**
 
 🕰️ Looking for source code or earlier versions?  
 🔍 **[Browse all releases](https://github.com/jentimanatol/MySecureDBManagerGui/releases)**
